@@ -1,0 +1,47 @@
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+}
+
+p {
+    padding: 0;
+}
+
+aside {
+    width: 300px;
+    margin: 20px auto;
+    border: 1px solid #999;
+    padding: 15px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+footer {
+    margin-top: 30px;
+    border-top: 2px solid #ccc;
+    text-align: center;
+    padding-top: 10px;
+}
+
+aside {
+    clear: both;
+    display: block;
+    margin: 30px auto;
+}
+
+map {
+    width: 100%;
+    border: 0;
+}
